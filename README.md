@@ -1,9 +1,6 @@
 APP初始状态
 
-Y8UMB%%~CBZLJ%9F9~B2U@K.png
-
 输入英文：
-`{E(2UP4YHPMI4DN567NENV.png
+
 
 点击翻译按钮：
-)JDP7F%26WB~N@OO`FFU`{G.png
