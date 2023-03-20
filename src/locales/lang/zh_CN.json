@@ -1,0 +1,15 @@
+{
+    "app":{
+        "little":"小小",
+        "translator":"翻译家",
+        "translate":"翻译",
+        "input":"输入",
+        "s":"统计数据:有",
+        "w":"个词，",
+        "appears":"这个单词出现了",
+        "times":"次"
+    },
+    "detail":{
+        
+    }
+}

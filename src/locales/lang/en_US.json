@@ -1,0 +1,15 @@
+{
+    "app":{
+        "little":"Little",
+        "translator":"Translator",
+        "translate":"Translate",
+        "input":"Input",
+        "s":"Statistics: there are",
+        "w":"words,the word of ",
+        "appears":"appears",
+        "times":"times"
+    },
+    "detail":{
+        
+    }
+}

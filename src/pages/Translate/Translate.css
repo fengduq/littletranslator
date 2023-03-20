@@ -1,0 +1,60 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    width: 20rem;
+    margin: 8rem auto ;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.375rem;
+}
+
+button {
+    background-color: rgb(37, 77, 211);
+    width: 4.6875rem;
+    height: 2.5rem;
+    border-radius: .3125rem;
+    border: none;
+    color: #fff;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3.125rem;
+}
+input{
+    height: 1.5625rem;
+    width: 11.25rem;
+    border: 1px rgb(207, 207, 207) solid;
+    outline: none;
+    border-radius: .3125rem;
+    padding:5px 0px 5px 12px;
+}
+input::-webkit-input-placeholder { 
+    color: #d2d2d2;
+  }
+  input:-ms-input-placeholder { 
+    color: #d2d2d2;
+  }
+  input:-moz-placeholder {
+    color: #d2d2d2;
+    opacity: 1;
+  }
+  input::-moz-placeholder { 
+   color: #d2d2d2;
+   opacity: 1;
+ }
+.result{
+    margin-top: 3.125rem;
+}
+.messageInfo {
+    margin-top: 3.125rem;
+    font-family: Arial;
+}
