@@ -1,11 +1,7 @@
-APP初始状态:
+运行：npm start
+无需登录
+环境：
+node： v18.1.0
+npm：9.2.0
 
-![1](D:\translator\public\images\1.png)
-
-输入英文：
-
-![1](D:\translator\public\images\2.png)
-
-点击翻译按钮：
-
-![1](D:\translator\public\images\3.png)
+翻译api：https://fanyi-api.baidu.com/api/trans/vip/translate
